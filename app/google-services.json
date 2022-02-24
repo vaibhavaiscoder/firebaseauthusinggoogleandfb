@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296870943912",
+    "project_id": "loginandsignupusingfirebase",
+    "storage_bucket": "loginandsignupusingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296870943912:android:e7c809493ae47cbb28f69d",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296870943912-nhegvpn2mucdft4arljudl1c42ipsn7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5v6b7jXEC8nAfpyW6Af473RreFksPBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296870943912-nhegvpn2mucdft4arljudl1c42ipsn7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
