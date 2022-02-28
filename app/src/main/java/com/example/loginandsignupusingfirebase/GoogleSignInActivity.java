@@ -1,10 +1,6 @@
 package com.example.loginandsignupusingfirebase;
 
-import static android.content.ContentValues.TAG;
-
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -40,7 +36,7 @@ public class GoogleSignInActivity extends MainActivity {
 
         // Configure Google Sign In
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken(getString(R.string.app_name))
+                .requestIdToken(getString(R.string.default_web_client_id))
                 .requestEmail()
                 .build();
         mAuth = FirebaseAuth.getInstance();

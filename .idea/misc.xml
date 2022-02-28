@@ -4,14 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/drawable/button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.26614583333333336" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/drawable/input_bg.xml" value="0.26614583333333336" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_facebook_auth.xml" value="0.25" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_google_sign_in.xml" value="0.12708333333333333" />
+        <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_login_activitty.xml" value="0.25" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
         <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/layout/content_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android projects for internship/loginandsignupusingfirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
       </map>
     </option>
   </component>
